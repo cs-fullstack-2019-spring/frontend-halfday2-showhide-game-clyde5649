@@ -1,6 +1,6 @@
 table {
     /* Use whatever background image (or images) you like */
-    background: url("forest-background.jpg") no-repeat;
+    background: url("https://media.golfdigest.com/photos/5bc4c5f9da13f32f6a55e2ea/master/w_780,c_limit/The-Waterboy.jpg");
     table-layout: fixed;
 }
 
@@ -9,3 +9,4 @@ td {
     width: 100px;
     height: 100px;
 }
+
